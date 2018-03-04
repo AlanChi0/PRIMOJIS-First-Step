@@ -1,5 +1,5 @@
 # See people’s attitude about #Bitcoin and #Blockchain through Emojis
-This project is tried to replicate emoji data science tutorial on #Bitcoin and #Blockchain. 
+This project is to replicate emoji data science tutorial on #Bitcoin and #Blockchain. 
 
 # See output at:  http://qr.ae/TU8m1K
 
